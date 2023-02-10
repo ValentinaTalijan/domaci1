@@ -1,0 +1,6 @@
+# domaci1
+First project at the front-end school
+Istraživala sam mogućnosti alata
+Isprobavala opcije sa interneta
+Pokušavala i estetski malo da eksperimentišem
+Imala sam greške vezano za image file jer sam pokušala sama da kreiram kod uz pomoć interneta ali sam ispravila gledajući ponovo čas. 
